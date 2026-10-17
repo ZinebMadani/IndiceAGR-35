@@ -180,7 +180,3 @@ Abdelaziz Lahlou (Chief Economist), Walid Kabbaj et Soufiane Khelloufi.
 
 Rapport : *Construction d'un indice bancaire panafricain — Ajustement au
 risque systémique*.
-
-## 11. Licence
-
-À définir (usage interne AGR).
